@@ -1,4 +1,4 @@
-# Day 1 - SQL Basics
+# SQL Basics
 
 ## What is SQL?
 
